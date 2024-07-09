@@ -1,0 +1,10 @@
+body{
+    background-image: url("./images/gec.jpg");
+    background-size: cover;
+}
+#d1,#d7{
+    padding:15px;
+    color:rgb(194, 12, 12);
+    font-size: 20px;
+    text-indent: 100px;
+}
